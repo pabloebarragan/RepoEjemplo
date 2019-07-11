@@ -1,0 +1,16 @@
+C:\Users\pablo.e.barragan\Desktop\TP3\BARRAGAN.PABLO.2C.TP3\Console\bin\Debug\Console.exe.config
+C:\Users\pablo.e.barragan\Desktop\TP3\BARRAGAN.PABLO.2C.TP3\Console\bin\Debug\Console.exe
+C:\Users\pablo.e.barragan\Desktop\TP3\BARRAGAN.PABLO.2C.TP3\Console\bin\Debug\Console.pdb
+C:\Users\pablo.e.barragan\Desktop\TP3\BARRAGAN.PABLO.2C.TP3\Console\bin\Debug\ClasesAbstractas.dll
+C:\Users\pablo.e.barragan\Desktop\TP3\BARRAGAN.PABLO.2C.TP3\Console\bin\Debug\ClasesInstanciables.dll
+C:\Users\pablo.e.barragan\Desktop\TP3\BARRAGAN.PABLO.2C.TP3\Console\bin\Debug\Excepciones.dll
+C:\Users\pablo.e.barragan\Desktop\TP3\BARRAGAN.PABLO.2C.TP3\Console\bin\Debug\Archivos.dll
+C:\Users\pablo.e.barragan\Desktop\TP3\BARRAGAN.PABLO.2C.TP3\Console\bin\Debug\ClasesAbstractas.pdb
+C:\Users\pablo.e.barragan\Desktop\TP3\BARRAGAN.PABLO.2C.TP3\Console\bin\Debug\ClasesInstanciables.pdb
+C:\Users\pablo.e.barragan\Desktop\TP3\BARRAGAN.PABLO.2C.TP3\Console\bin\Debug\Excepciones.pdb
+C:\Users\pablo.e.barragan\Desktop\TP3\BARRAGAN.PABLO.2C.TP3\Console\bin\Debug\Archivos.pdb
+C:\Users\pablo.e.barragan\Desktop\TP3\BARRAGAN.PABLO.2C.TP3\Console\obj\Debug\Consola.csprojAssemblyReference.cache
+C:\Users\pablo.e.barragan\Desktop\TP3\BARRAGAN.PABLO.2C.TP3\Console\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\pablo.e.barragan\Desktop\TP3\BARRAGAN.PABLO.2C.TP3\Console\obj\Debug\Consola.csproj.CopyComplete
+C:\Users\pablo.e.barragan\Desktop\TP3\BARRAGAN.PABLO.2C.TP3\Console\obj\Debug\Console.exe
+C:\Users\pablo.e.barragan\Desktop\TP3\BARRAGAN.PABLO.2C.TP3\Console\obj\Debug\Console.pdb

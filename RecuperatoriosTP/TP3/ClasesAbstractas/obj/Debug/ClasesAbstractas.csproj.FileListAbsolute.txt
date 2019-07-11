@@ -1,0 +1,9 @@
+C:\Users\pablo.e.barragan\Desktop\TP3\BARRAGAN.PABLO.2C.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.dll
+C:\Users\pablo.e.barragan\Desktop\TP3\BARRAGAN.PABLO.2C.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.pdb
+C:\Users\pablo.e.barragan\Desktop\TP3\BARRAGAN.PABLO.2C.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.csprojAssemblyReference.cache
+C:\Users\pablo.e.barragan\Desktop\TP3\BARRAGAN.PABLO.2C.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\pablo.e.barragan\Desktop\TP3\BARRAGAN.PABLO.2C.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.dll
+C:\Users\pablo.e.barragan\Desktop\TP3\BARRAGAN.PABLO.2C.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.pdb
+C:\Users\pablo.e.barragan\Desktop\TP3\BARRAGAN.PABLO.2C.TP3\ClasesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\pablo.e.barragan\Desktop\TP3\BARRAGAN.PABLO.2C.TP3\ClasesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\pablo.e.barragan\Desktop\TP3\BARRAGAN.PABLO.2C.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.csproj.CopyComplete
