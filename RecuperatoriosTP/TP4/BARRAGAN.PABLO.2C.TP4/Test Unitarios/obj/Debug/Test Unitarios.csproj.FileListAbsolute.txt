@@ -1,0 +1,19 @@
+C:\Users\pablo.e.barragan\Desktop\TP4\BARRAGAN.PABLO.2C.TP4\Test Unitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\pablo.e.barragan\Desktop\TP4\BARRAGAN.PABLO.2C.TP4\Test Unitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\pablo.e.barragan\Desktop\TP4\BARRAGAN.PABLO.2C.TP4\Test Unitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\pablo.e.barragan\Desktop\TP4\BARRAGAN.PABLO.2C.TP4\Test Unitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\pablo.e.barragan\Desktop\TP4\BARRAGAN.PABLO.2C.TP4\Test Unitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\pablo.e.barragan\Desktop\TP4\BARRAGAN.PABLO.2C.TP4\Test Unitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\pablo.e.barragan\Desktop\TP4\BARRAGAN.PABLO.2C.TP4\Test Unitarios\bin\Debug\Test Unitarios.dll
+C:\Users\pablo.e.barragan\Desktop\TP4\BARRAGAN.PABLO.2C.TP4\Test Unitarios\bin\Debug\Test Unitarios.pdb
+C:\Users\pablo.e.barragan\Desktop\TP4\BARRAGAN.PABLO.2C.TP4\Test Unitarios\bin\Debug\Entidades.dll
+C:\Users\pablo.e.barragan\Desktop\TP4\BARRAGAN.PABLO.2C.TP4\Test Unitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\pablo.e.barragan\Desktop\TP4\BARRAGAN.PABLO.2C.TP4\Test Unitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\pablo.e.barragan\Desktop\TP4\BARRAGAN.PABLO.2C.TP4\Test Unitarios\bin\Debug\Entidades.pdb
+C:\Users\pablo.e.barragan\Desktop\TP4\BARRAGAN.PABLO.2C.TP4\Test Unitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\pablo.e.barragan\Desktop\TP4\BARRAGAN.PABLO.2C.TP4\Test Unitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\pablo.e.barragan\Desktop\TP4\BARRAGAN.PABLO.2C.TP4\Test Unitarios\obj\Debug\Test Unitarios.csprojAssemblyReference.cache
+C:\Users\pablo.e.barragan\Desktop\TP4\BARRAGAN.PABLO.2C.TP4\Test Unitarios\obj\Debug\Test Unitarios.csproj.CoreCompileInputs.cache
+C:\Users\pablo.e.barragan\Desktop\TP4\BARRAGAN.PABLO.2C.TP4\Test Unitarios\obj\Debug\Test Unitarios.csproj.CopyComplete
+C:\Users\pablo.e.barragan\Desktop\TP4\BARRAGAN.PABLO.2C.TP4\Test Unitarios\obj\Debug\Test Unitarios.dll
+C:\Users\pablo.e.barragan\Desktop\TP4\BARRAGAN.PABLO.2C.TP4\Test Unitarios\obj\Debug\Test Unitarios.pdb

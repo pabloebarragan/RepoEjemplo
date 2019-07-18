@@ -1,0 +1,13 @@
+C:\Users\pablo.e.barragan\Desktop\TP4\BARRAGAN.PABLO.2C.TP4\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\pablo.e.barragan\Desktop\TP4\BARRAGAN.PABLO.2C.TP4\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\pablo.e.barragan\Desktop\TP4\BARRAGAN.PABLO.2C.TP4\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\pablo.e.barragan\Desktop\TP4\BARRAGAN.PABLO.2C.TP4\MainCorreo\bin\Debug\Entidades.dll
+C:\Users\pablo.e.barragan\Desktop\TP4\BARRAGAN.PABLO.2C.TP4\MainCorreo\bin\Debug\Entidades.pdb
+C:\Users\pablo.e.barragan\Desktop\TP4\BARRAGAN.PABLO.2C.TP4\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+C:\Users\pablo.e.barragan\Desktop\TP4\BARRAGAN.PABLO.2C.TP4\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
+C:\Users\pablo.e.barragan\Desktop\TP4\BARRAGAN.PABLO.2C.TP4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\pablo.e.barragan\Desktop\TP4\BARRAGAN.PABLO.2C.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+C:\Users\pablo.e.barragan\Desktop\TP4\BARRAGAN.PABLO.2C.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\Users\pablo.e.barragan\Desktop\TP4\BARRAGAN.PABLO.2C.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+C:\Users\pablo.e.barragan\Desktop\TP4\BARRAGAN.PABLO.2C.TP4\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\pablo.e.barragan\Desktop\TP4\BARRAGAN.PABLO.2C.TP4\MainCorreo\obj\Debug\MainCorreo.pdb
